@@ -1,0 +1,7 @@
+1.First of all tou must have tkinter installed in your computer
+2.To make in one exe file 
+3.we need to first install pyinstaller
+4.Run command:-pip install pyinstaller
+5.Then open the terminal in the corresponding folder and run the command mentioned below
+6.pyinstaller.exe --onefile (if you have icon) --icon='image-path' nameofFile
+7.eg pyinstaller.exe --onefile --icon='favicon.ico' WeatherApp 
